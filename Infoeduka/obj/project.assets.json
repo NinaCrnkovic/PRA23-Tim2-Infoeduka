@@ -37,11 +37,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\38598\\Source\\Repos\\Infoeduka_app\\Infoeduka\\Infoeduka.csproj",
+      "projectUniqueName": "C:\\Users\\38598\\Documents\\Faks\\4.semestar 2022-23\\PRA\\Infoeduka\\Infoeduka\\Infoeduka.csproj",
       "projectName": "Infoeduka",
-      "projectPath": "C:\\Users\\38598\\Source\\Repos\\Infoeduka_app\\Infoeduka\\Infoeduka.csproj",
+      "projectPath": "C:\\Users\\38598\\Documents\\Faks\\4.semestar 2022-23\\PRA\\Infoeduka\\Infoeduka\\Infoeduka.csproj",
       "packagesPath": "C:\\Users\\38598\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\38598\\Source\\Repos\\Infoeduka_app\\Infoeduka\\obj\\",
+      "outputPath": "C:\\Users\\38598\\Documents\\Faks\\4.semestar 2022-23\\PRA\\Infoeduka\\Infoeduka\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -64,8 +64,8 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\38598\\Source\\Repos\\Infoeduka_app\\Utilities\\Utilities.csproj": {
-              "projectPath": "C:\\Users\\38598\\Source\\Repos\\Infoeduka_app\\Utilities\\Utilities.csproj"
+            "C:\\Users\\38598\\Documents\\Faks\\4.semestar 2022-23\\PRA\\Infoeduka\\Utilities\\Utilities.csproj": {
+              "projectPath": "C:\\Users\\38598\\Documents\\Faks\\4.semestar 2022-23\\PRA\\Infoeduka\\Utilities\\Utilities.csproj"
             }
           }
         }

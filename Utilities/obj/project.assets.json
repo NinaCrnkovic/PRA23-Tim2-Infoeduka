@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\38598\\Source\\Repos\\Infoeduka_app\\Utilities\\Utilities.csproj",
+      "projectUniqueName": "C:\\Users\\38598\\Documents\\Faks\\4.semestar 2022-23\\PRA\\Infoeduka\\Utilities\\Utilities.csproj",
       "projectName": "Utilities",
-      "projectPath": "C:\\Users\\38598\\Source\\Repos\\Infoeduka_app\\Utilities\\Utilities.csproj",
+      "projectPath": "C:\\Users\\38598\\Documents\\Faks\\4.semestar 2022-23\\PRA\\Infoeduka\\Utilities\\Utilities.csproj",
       "packagesPath": "C:\\Users\\38598\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\38598\\Source\\Repos\\Infoeduka_app\\Utilities\\obj\\",
+      "outputPath": "C:\\Users\\38598\\Documents\\Faks\\4.semestar 2022-23\\PRA\\Infoeduka\\Utilities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
