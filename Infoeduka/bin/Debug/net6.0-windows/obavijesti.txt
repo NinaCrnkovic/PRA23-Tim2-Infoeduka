@@ -1,0 +1,6 @@
+416002$OOP$Poštovani studenti i studentice, današnje predavanje iz OOP se odgađa zbog spriječenosti predavača.$Objektno orjentirano programiranje$318885|Nina|Crnkovic|nina@crnkovic.hr|123|True$03.04.2023. 01:56$15.05.2023. 04:09$03.04.2023. 12:00
+720971$VIS - nadokada$Poštovani studenti i studentice, nadokada VIS će se održati u utorak 04.04.2023 a točno vrijeme održavanja kao i dvorana vidljivi su u rasporedu. $Java$318885|Nina|Crnković|nina@crnković.hr|123|True$03.04.2023. 01:56$15.05.2023. 04:03$03.04.2023. 12:00
+248248$Zadaća Java$Rok za predaju druge zadaće iz Jave je do 10.04.2023. u 23:59.$Java$265452|Nina|Crnkovic|nina@crnkovic.hr|123|True$03.04.2023. 02:17$03.04.2023. 02:26$11.04.2023. 12:00
+197143$Vježbe C++$Nadaoknada vježbi iz c++ biti će održana prema rasporedu.$Programiranje C++$318885|Nina|Crnković|nina@crnković.hr|123|True$03.04.2023. 02:42$15.05.2023. 04:02$18.04.2023. 12:00
+151673$Konzultacije$Konzultacije za međuispit iz građe računala biti će u petak u 18 h putem teamsa.$Građa računala$318885|Nina|Crnković|nina@crnković.hr|123|True$03.04.2023. 02:43$15.05.2023. 04:02$09.04.2023. 12:00
+602518$Testnovi$1233dfadf$Strukture podataka i algoritmi$318885|Nina|Crnković|nina@crnković.hr|123|True$15.05.2023. 04:07$15.05.2023. 04:07$15.05.2023. 04:06

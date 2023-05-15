@@ -1,0 +1,9 @@
+113269#Matematika#1#5#304584|Doroteja|Kučak|doroteja@kucak.hr|456|False
+729584#VIS#255#6#347385|Ileana|Kurtovic|ileana@kurtovic.hr|123|False%243184|Sonja|Vresk|sonja@vresk.hr|123|False
+236669#Java#356#6#347385|Ileana|Kurtovic|ileana@kurtovic.hr|123|False%304584|Doroteja|Kučak|doroteja@kucak.hr|123|False
+377709#Programiranje u Javi 2#30#6#243184|Sonja|Vresk|sonja@vresk.hr|123|False
+199555#Programiranje C++#50#6#347385|Ileana|Kurtovic|ileana@kurtovic.hr|123|False
+599842#Građa računala#51#4#347385|Ileana|Kurtovic|ileana@kurtovic.hr|123|False
+904126#Operacijski sustavi#53#5#243184|Sonja|Vresk|sonja@vresk.com|123|False%304584|Doroteja|Kučak|doroteja@kucak.hr|123|False
+881790#Objektno orjentirano programiranje#100#6#690230|Maja|Majic|maja@majic.hr|123|True
+714000#Strukture podataka i algoritmi#101#6#347385|Ileana|Kurtovic|ileana@kurtovic.hr|123|False
