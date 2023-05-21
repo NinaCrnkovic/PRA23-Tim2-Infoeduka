@@ -59,7 +59,7 @@ namespace Infoeduka.UserControls
             }
             if (!Utility.IsTextValid(password))
             {
-                CustomMessageBox.Show("Nije unesen ispravna lozinka.", "Upozorenje", MessageBoxButtons.OK);
+                CustomMessageBox.Show("Nije unesena ispravna lozinka.", "Upozorenje", MessageBoxButtons.OK);
                 return;
             }
 

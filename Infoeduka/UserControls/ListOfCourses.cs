@@ -58,6 +58,7 @@ namespace Infoeduka.UserControls
                         if (result == DialogResult.Yes)
                         {
                             _dataManager.DeleteCourseFromDictionary(course.Id);
+                            CustomMessageBox.Show("Uspješno obrisano!", "Obavijest", MessageBoxButtons.OK);
                             lvCourses.Items.Remove(item);
                         }
                     }

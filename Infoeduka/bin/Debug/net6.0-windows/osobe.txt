@@ -4,3 +4,4 @@
 690230|Maja|Majic|maja@majic.hr|123|True
 732967|Pero|Perić|pero@peric.hr|123456|False
 318885|Nina|Crnkovic|nina@crnkovic.hr|123|True
+524486|Milica|Krmpotić|milica@krmpotic.hr|123|False

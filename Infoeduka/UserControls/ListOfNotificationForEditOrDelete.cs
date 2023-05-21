@@ -68,7 +68,8 @@ namespace Infoeduka.UserControls
 
                         if (result == DialogResult.Yes)
                         {
-                            _dataManager.DeleteNotificationFromDictionary(notification.Id);
+                        _dataManager.DeleteNotificationFromDictionary(notification.Id);
+                            CustomMessageBox.Show("Uspješno obrisano!", "Obavijest", MessageBoxButtons.OK);
                             lvNotifications.Items.Remove(item);
                         }
                     }

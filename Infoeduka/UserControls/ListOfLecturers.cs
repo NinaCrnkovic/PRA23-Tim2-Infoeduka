@@ -1,15 +1,5 @@
 ﻿using Infoeduka.CustomDesign;
 using Infoeduka.Model;
-//using System;
-//using System.Collections.Generic;
-//using System.ComponentModel;
-//using System.Data;
-//using System.Drawing;
-//using System.Linq;
-//using System.Text;
-//using System.Threading.Tasks;
-//using System.Windows.Forms;
-//using static System.Windows.Forms.ListViewItem;
 
 namespace Infoeduka.UserControls
 {
@@ -75,13 +65,14 @@ namespace Infoeduka.UserControls
 
                         if (result == DialogResult.Yes)
                         {
-                            
-                                _dataManager.DeletePersonFromDictionary(person.Id);
-                                LoadData();
-                            
-                           
-                            
-                            
+
+                            _dataManager.DeletePersonFromDictionary(person.Id);
+                            CustomMessageBox.Show("Uspješno obrisano!", "Obavijest", MessageBoxButtons.OK);
+                            lvLecturers.Items.Remove(item);
+
+
+
+
                         }
                     }
                 }
