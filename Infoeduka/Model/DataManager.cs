@@ -177,12 +177,16 @@ namespace Infoeduka.Model
                 if (isLecturer)
                 {
                     CustomMessageBox.Show(messageBuilder.ToString(), "Upozorenje", MessageBoxButtons.OK);
+                    
                 }
                 else
                 {
                     personsDictionary.Remove(id);
+                  
                 }
             }
+          
+      
         }
 
 
