@@ -46,21 +46,31 @@ namespace Infoeduka.UserControls
         private void LoadCurrentNotifications()
         {
             IDictionary<int, Notification> notificationDictionary = _dataManager.GetNotificationDictionary();
-            // sortiranje obavijesti po datumu od najnovije
-            var sortedNotifications = notificationDictionary.Values.OrderByDescending(n => n.DateOfCreation);
+
+            // filtriranje obavijesti prema uvjetu ExpirationDate
+            var currentDate = DateTime.Today;
+            var filteredNotifications = notificationDictionary.Values.Where(n => n.ExpirationDate > currentDate);
+
+            // Stvaranje novog rječnika s filtriranim obavijestima
+            var filteredNotificationDictionary = filteredNotifications.ToDictionary(n => n.Id);
+
             btnForListOfNotification.Text = "Pregled aktualnih obavijesti";
 
-            LodadLabelsForNotification(notificationDictionary);
+            LodadLabelsForNotification(filteredNotificationDictionary);
         }
+
+
 
 
         private void LoadAllNotifications()
         {
             IDictionary<int, Notification> notificationDictionary = _dataManager.GetNotificationDictionary();
-            // sortiranje obavijesti po datumu od najnovije
+            //sortiranje obavijesti po datumu od najnovije
             var sortedNotifications = notificationDictionary.Values.OrderByDescending(n => n.DateOfCreation);
             btnForListOfNotification.Text = "Pregled svih obavijesti";
             LodadLabelsForNotification(notificationDictionary);
+
+ 
         }
 
         private void LodadLabelsForNotification(IDictionary<int, Notification> notificationDictionary)
