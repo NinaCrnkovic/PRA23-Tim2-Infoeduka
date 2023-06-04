@@ -1,30 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\38598\\Documents\\Faks\\Infoeduka\\Utilities\\Utilities.csproj": {}
+    "C:\\Users\\Korisnik\\Desktop\\Algebra\\4. semestar\\PRA\\Infoeduka_app\\Utilities\\Utilities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\38598\\Documents\\Faks\\Infoeduka\\Utilities\\Utilities.csproj": {
+    "C:\\Users\\Korisnik\\Desktop\\Algebra\\4. semestar\\PRA\\Infoeduka_app\\Utilities\\Utilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\38598\\Documents\\Faks\\Infoeduka\\Utilities\\Utilities.csproj",
+        "projectUniqueName": "C:\\Users\\Korisnik\\Desktop\\Algebra\\4. semestar\\PRA\\Infoeduka_app\\Utilities\\Utilities.csproj",
         "projectName": "Utilities",
-        "projectPath": "C:\\Users\\38598\\Documents\\Faks\\Infoeduka\\Utilities\\Utilities.csproj",
-        "packagesPath": "C:\\Users\\38598\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\38598\\Documents\\Faks\\Infoeduka\\Utilities\\obj\\",
+        "projectPath": "C:\\Users\\Korisnik\\Desktop\\Algebra\\4. semestar\\PRA\\Infoeduka_app\\Utilities\\Utilities.csproj",
+        "packagesPath": "C:\\Users\\Korisnik\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Korisnik\\Desktop\\Algebra\\4. semestar\\PRA\\Infoeduka_app\\Utilities\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\38598\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Korisnik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0-windows7.0"
+          "net6.0-windows"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -64,7 +58,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
