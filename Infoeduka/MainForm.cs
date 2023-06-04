@@ -167,6 +167,7 @@ namespace Infoeduka
             }
         }
 
+        // linkovi za društvene mreže
         private void LinkItems_Click(object sender, EventArgs e)
         {
             PictureBox linkItem = sender as PictureBox;
@@ -202,8 +203,6 @@ namespace Infoeduka
             pnlNotificationsDropDown.Visible = false;
             pnlLecturerDropDown.Visible = false;
         }
-
-
 
         //metoda za skrivanje panela koji glume drop down
         private void HideDropDownPanel()
