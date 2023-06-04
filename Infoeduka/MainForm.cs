@@ -29,7 +29,9 @@ namespace Infoeduka
             InitializeComponent();
             SetPanelForDropDownVisibilityToFalse();
         }
-        //ponašanje tijekom pokretanja frome
+        //ponašanje tijekom pokretanja forme
+
+
         private void MainForm_Load(object sender, EventArgs e)
         {
             _dataManager.LoadPersonsToDictionary();
@@ -152,7 +154,7 @@ namespace Infoeduka
         }
 
 
-        //Gumbi footer
+        //Gumb footer
         //akcije na gumbima u footeru - linkovi na stranice
 
         private void LbAlgebraLink_LinkClicked(object sender, EventArgs e)
