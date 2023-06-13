@@ -6,4 +6,8 @@
 713252$Novi test$Test$Test Kolegij$318885|Nina|Crnkovic|nina@crnkovic.hr|123|True$21.05.2023. 04:34$21.05.2023. 04:34$21.05.2023. 12:00
 108193$Građa računala pripreme$Pripreme za ispit iz građe se održavaju danas u učitonici c2 u 17 sati$Građa računala$347385|Ileana|Kurtovic|ileana@kurtovic.hr|123|False$29.05.2023. 11:37$29.05.2023. 11:37$29.05.2023. 12:00
 151754$Vis$Nadokanada iz visa biti će sutra u 18 h učionica A7$VIS$347385|Ileana|Kurtovic|ileana@kurtovic.hr|123|False$29.05.2023. 11:41$29.05.2023. 11:41$30.05.2023. 12:00
-567729$test za vrijeme$test$Matematika$318885|Nina|Crnkovic|nina@crnkovic.hr|123|True$29.05.2023. 12:12$29.05.2023. 12:12$29.05.2023. 12:00
+506751$Aktualna obavijest$Testna obavijest$Matematika$318885|Nina|Crnkovic|nina@crnkovic.hr|123|True$13.06.2023. 02:08$13.06.2023. 02:08$16.06.2023. 12:00
+218330$Obrana projekta $Poštovane studentice i studenti,
+
+Izvanredni studenti molim poslati arhivu projekta najkasnije 3 dana prije roka ispita.$Programiranje C++$347385|Ileana|Kurtovic|ileana@kurtovic.hr|123|False$13.06.2023. 04:18$13.06.2023. 04:18$22.06.2023. 12:00
+544991$Predaja projekts$Projekt je potrebno predati na vrijeme.$VIS$347385|Ileana|Kurtovic|ileana@kurtovic.hr|123|False$13.06.2023. 04:19$13.06.2023. 04:19$29.06.2023. 12:00
