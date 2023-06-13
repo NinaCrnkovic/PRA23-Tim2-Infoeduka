@@ -34,3 +34,15 @@ C:\Users\38598\Documents\Faks\Infoeduka\Utilities\obj\Debug\net6.0-windows\Utili
 C:\Users\38598\Documents\Faks\Infoeduka\Utilities\obj\Debug\net6.0-windows\refint\Utilities.dll
 C:\Users\38598\Documents\Faks\Infoeduka\Utilities\obj\Debug\net6.0-windows\Utilities.pdb
 C:\Users\38598\Documents\Faks\Infoeduka\Utilities\obj\Debug\net6.0-windows\ref\Utilities.dll
+C:\Users\Korisnik\Desktop\Algebra\4. semestar\PRA\Infoeduka_app\Utilities\bin\Debug\net6.0-windows\Utilities.deps.json
+C:\Users\Korisnik\Desktop\Algebra\4. semestar\PRA\Infoeduka_app\Utilities\bin\Debug\net6.0-windows\Utilities.dll
+C:\Users\Korisnik\Desktop\Algebra\4. semestar\PRA\Infoeduka_app\Utilities\bin\Debug\net6.0-windows\Utilities.pdb
+C:\Users\Korisnik\Desktop\Algebra\4. semestar\PRA\Infoeduka_app\Utilities\obj\Debug\net6.0-windows\Utilities.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\Algebra\4. semestar\PRA\Infoeduka_app\Utilities\obj\Debug\net6.0-windows\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\Desktop\Algebra\4. semestar\PRA\Infoeduka_app\Utilities\obj\Debug\net6.0-windows\Utilities.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Desktop\Algebra\4. semestar\PRA\Infoeduka_app\Utilities\obj\Debug\net6.0-windows\Utilities.AssemblyInfo.cs
+C:\Users\Korisnik\Desktop\Algebra\4. semestar\PRA\Infoeduka_app\Utilities\obj\Debug\net6.0-windows\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\Algebra\4. semestar\PRA\Infoeduka_app\Utilities\obj\Debug\net6.0-windows\Utilities.dll
+C:\Users\Korisnik\Desktop\Algebra\4. semestar\PRA\Infoeduka_app\Utilities\obj\Debug\net6.0-windows\refint\Utilities.dll
+C:\Users\Korisnik\Desktop\Algebra\4. semestar\PRA\Infoeduka_app\Utilities\obj\Debug\net6.0-windows\Utilities.pdb
+C:\Users\Korisnik\Desktop\Algebra\4. semestar\PRA\Infoeduka_app\Utilities\obj\Debug\net6.0-windows\ref\Utilities.dll
