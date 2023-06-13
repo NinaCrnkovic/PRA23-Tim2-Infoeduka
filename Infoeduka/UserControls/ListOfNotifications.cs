@@ -22,8 +22,7 @@ namespace Infoeduka.UserControls
             _callingButton = callingButton;
             InitializeComponent();
         }
-        //dddd
-        //aaaa
+        
         public ListOfNotifications(DataManager dataManager, string callingButton, Panel holderPanel) : this(dataManager, callingButton)
         {
             _pnlHolderForOtherPanels = holderPanel;
