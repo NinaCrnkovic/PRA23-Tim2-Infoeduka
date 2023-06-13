@@ -75,7 +75,7 @@ namespace Infoeduka
             }
         }
 
-        //Gumbi u padajuæem izborniku
+        //Button u padajuæem izborniku
         private void ButtonsInDropDownMenu_Click(object sender, EventArgs e)
         {
             Button dropdownButton = sender as Button;

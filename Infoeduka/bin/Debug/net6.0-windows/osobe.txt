@@ -5,3 +5,4 @@
 732967|Pero|Perić|pero@peric.hr|123456|False
 318885|Nina|Crnkovic|nina@crnkovic.hr|123|True
 524486|Milica|Krmpotić|milica@krmpotic.hr|123|False
+470437|Marko|Horvat|marko@horvat.hr|123|False
